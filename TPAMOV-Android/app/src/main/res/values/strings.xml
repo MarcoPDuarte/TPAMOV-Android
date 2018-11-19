@@ -4,4 +4,7 @@
     <string name="btn_OnePlayer">One Player</string>
     <string name="btn_TwoPlayers">Two Players</string>
     <string name="btn_Multiplayer">Multiplayer</string>
+    <string name="menu_item_profile">Manage Profile</string>
+    <string name="menu_item_history">History</string>
+    <string name="manage_profile_title">Manage Profile</string>
 </resources>
