@@ -136,6 +136,9 @@
     <string name="btn_Multiplayer">Multiplayer</string>
     <string name="btn_OnePlayer">One Player</string>
     <string name="btn_TwoPlayers">Two Players</string>
+    <string name="btn_take_picture">Take Photo</string>
+    <string name="confirm_menu">Confirm Profile</string>
+    <string name="manage_profile_setName">Name:</string>
     <string name="manage_profile_title">Manage Profile</string>
     <string name="menu_item_history">History</string>
     <string name="menu_item_profile">Manage Profile</string>

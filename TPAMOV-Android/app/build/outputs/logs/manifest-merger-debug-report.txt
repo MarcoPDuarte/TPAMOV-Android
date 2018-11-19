@@ -1,65 +1,69 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marcoduarte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0abb934d96cf304a7d7050b8289b709f/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:3:5-56
 		INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:5:22-77
 application
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:7:5-23:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marcoduarte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0abb934d96cf304a7d7050b8289b709f/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/marcoduarte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/0abb934d96cf304a7d7050b8289b709f/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:13:9-40
 activity#pt.isec.a21260401a21260412.tpamov_android.MainActivity
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:18:27-74
 activity#pt.isec.a21260401a21260412.tpamov_android.GameActivity
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:19:9-50
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:21:9-50
 	android:name
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:21:19-47
 activity#pt.isec.a21260401a21260412.tpamov_android.ManageProfileActivity
-ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:20:9-68
+ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:22:9-68
 	android:name
-		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:20:19-56
+		ADDED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml:22:19-56
 uses-sdk
 INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/AndroidManifest.xml

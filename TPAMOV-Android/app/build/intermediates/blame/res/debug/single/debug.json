@@ -8,12 +8,12 @@
         "source": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/res/menu/functionalities_menu.xml"
     },
     {
-        "merged": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -78,5 +78,9 @@
     {
         "merged": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/build/intermediates/res/merged/debug/drawable_black_ball.png.flat",
         "source": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/res/drawable/black_ball.png"
+    },
+    {
+        "merged": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/build/intermediates/res/merged/debug/menu_add_menu.xml.flat",
+        "source": "/Users/marcoduarte/Documents/GitHub/TPAMOV-Android/TPAMOV-Android/app/src/main/res/menu/add_menu.xml"
     }
 ]
