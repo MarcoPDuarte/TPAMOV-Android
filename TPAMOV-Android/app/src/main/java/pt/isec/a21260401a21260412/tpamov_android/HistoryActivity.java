@@ -3,47 +3,48 @@ package pt.isec.a21260401a21260412.tpamov_android;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.os.Bundle;
+import android.widget.ListView;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class GameActivity extends Activity {
-
+public class HistoryActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_game);
+        setContentView(R.layout.activity_history);
+
+        LoadFile();
+        ListView listView = (ListView)findViewById(R.id.HistoryTable);
+
+
+
+
     }
 
 
-    //Function to save data containing the winners
-    public void saveToFile(){
-        try{
-            FileOutputStream fileToSave = openFileOutput("historyFile", MODE_APPEND);
-            // String infoToSave = //ir buscar as cenas a cada variavel
-            //fileToSave.write(infoToSave.getBytes());
-            fileToSave.close();
+    public void LoadFile (){
+        String infoToShow = "";
 
-        }catch(FileNotFoundException error){
-            messageToShow("FILE Error", "" + error);
+        try {
+            FileInputStream fileToLoad = new FileInputStream("historyFile");
+            byte [] buffer = new byte[256];
+            fileToLoad.read(buffer);
+            fileToLoad.close();
+            infoToShow = new String (buffer);
+
         }catch(IOException errorr){
             messageToShow("FILE Error", "" + errorr);
         }
-
     }
-
-
 
     //Function to show a alertDialog on Activity with the message you want
     public void messageToShow (String title, String message){
-        AlertDialog.Builder alertDialog = new AlertDialog.Builder(GameActivity.this);
+        AlertDialog.Builder alertDialog = new AlertDialog.Builder(HistoryActivity.this);
         alertDialog.setTitle(title);
         alertDialog.setMessage(message);
         alertDialog.setNeutralButton("OK",null);
         alertDialog.show();
     }
-
 }

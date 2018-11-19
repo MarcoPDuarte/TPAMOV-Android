@@ -52,7 +52,8 @@ public class MainActivity extends Activity {
             startActivity(profileIntent);
         }
         else if(item.getItemId() == R.id.menuHistory){
-
+            Intent historyIntent = new Intent(this, HistoryActivity.class);
+            startActivity(historyIntent);
         }
 
         return super.onOptionsItemSelected(item);

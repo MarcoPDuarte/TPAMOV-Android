@@ -92,6 +92,7 @@ id start
 id top
 id wrap
 layout activity_game
+layout activity_history
 layout activity_main
 layout activity_manage_profile
 menu functionalities_menu
