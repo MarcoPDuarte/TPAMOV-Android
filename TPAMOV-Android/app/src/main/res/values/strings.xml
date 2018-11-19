@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TPAMOV-Android</string>
+    <string name="menu_title">ReversISEC</string>
+    <string name="btn_OnePlayer">One Player</string>
+    <string name="btn_TwoPlayers">Two Players</string>
+    <string name="btn_Multiplayer">Multiplayer</string>
 </resources>
