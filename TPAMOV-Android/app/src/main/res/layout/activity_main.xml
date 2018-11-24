@@ -34,7 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_OnePlayer"
-        android:background="#008000"
+        android:background="@drawable/round_buttons"
         android:layout_margin="15dp"
         android:onClick="onOnePlayer"/>
     <Button
@@ -42,7 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_TwoPlayers"
-        android:background="#008000"
+        android:background="@drawable/round_buttons"
         android:layout_margin="15dp"
         android:onClick="onTwoPlayers"/>
     <Button
@@ -50,7 +50,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_Multiplayer"
-        android:background="#008000"
+        android:background="@drawable/round_buttons"
         android:layout_margin="15dp"
         android:onClick="onMultiplayer"/>
 
