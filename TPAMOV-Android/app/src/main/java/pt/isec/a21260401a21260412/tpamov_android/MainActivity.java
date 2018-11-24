@@ -9,6 +9,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import pt.isec.a21260401a21260412.tpamov_android.GameLogic.*;
 
 public class MainActivity extends Activity {
     TextView title;
@@ -27,7 +28,8 @@ public class MainActivity extends Activity {
     }
 
     public void onOnePlayer(View v){
-
+        Intent onePlayerIntent = new Intent(this, GameActivity.class);
+        startActivity(onePlayerIntent);
     }
 
     public void onTwoPlayers(View v){

@@ -6,5 +6,12 @@
     <string name="btn_Multiplayer">Multiplayer</string>
     <string name="menu_item_profile">Manage Profile</string>
     <string name="menu_item_history">History</string>
+
+    //Strings for the ManageProfileActivity
     <string name="manage_profile_title">Manage Profile</string>
+    <string name="manage_profile_setName">Name:</string>
+    <string name="btn_take_picture">Take Photo</string>
+
+    //String for Menus
+    <string name="confirm_menu">Confirm Profile</string>
 </resources>

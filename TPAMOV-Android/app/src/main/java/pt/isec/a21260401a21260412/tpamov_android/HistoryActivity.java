@@ -7,6 +7,7 @@ import android.widget.ListView;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import pt.isec.a21260401a21260412.tpamov_android.GameLogic.*;
 
 public class HistoryActivity extends Activity {
 
@@ -16,7 +17,7 @@ public class HistoryActivity extends Activity {
         setContentView(R.layout.activity_history);
 
         LoadFile();
-        ListView listView = (ListView)findViewById(R.id.HistoryTable);
+
 
 
 
