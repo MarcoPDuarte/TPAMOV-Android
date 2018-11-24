@@ -14,4 +14,8 @@
 
     //String for Menus
     <string name="confirm_menu">Confirm Profile</string>
+
+    //Strings For Client/Server Menu
+    <string name="btn_server">Server</string>
+    <string name="btn_client">Client</string>
 </resources>
